@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Network Settings</name>
+  <coder>loopj</coder>
+  <version>0.1</version>
+  <short_description>Edit the Wii network connections</short_description>
+  <long_description>Edits the three connection profiles the System Menu keeps on NAND. Wired or wireless, SSID, security type and key, DHCP or manual IP and DNS, and MTU. Works with the Wii Remote and the GameCube controller.</long_description>
+  <ahb_access/>
+</app>
